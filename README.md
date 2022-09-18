@@ -1,2 +1,2 @@
 # my-blog
-Build a CMS for blog website
+Build a customize CMS for blog website
